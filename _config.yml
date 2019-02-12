@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bryan's Webpage"
+title                    : "Bryan S. Blette, M.S."
 title_separator          : "-"
 name                     : &name "Bryan Blette"
 description              : &description "Biostatistics Ph.D. student at UNC-Chapel Hill"
