@@ -17,6 +17,6 @@ Insert syllabus
 
 ### Course Schedule and Lectures
 
-| Day | Title | Topics | Lecture |
-|-----|-------|--------|---------|
-| 1 | R Basics | `R basics`<br/>`Simple figures with 'ggplot2'`<br/>`Demonstration of material from morning class`<br/>`Descriptive Statistics` | Add Link |
+| Day | Title | Topics | R Lecture | Morning Biostatistics Lecture |
+|-----|-------|--------|-----------|-------------------------------|
+| 1 | R Basics | `R basics`<br/>`Simple figures with 'ggplot2'`<br/>`Demonstration of material from Biostatistics lecture`<br/>`Downloading R and RStudio` | Add link | Add link |
