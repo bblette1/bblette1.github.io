@@ -3,7 +3,7 @@ title: "Teaching Assistant for BIOS 600: Introduction to Biostatistics"
 collection: teaching
 type: "Graduate Course"
 venue: "University of North Carolina at Chapel Hill, Department of Biostatistics"
-date: 2015-01-01
+date: 2017-08-17
 location: "Chapel Hill, NC"
 ---
 
