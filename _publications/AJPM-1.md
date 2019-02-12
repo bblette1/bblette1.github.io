@@ -1,10 +1,11 @@
 ---
-title: " Changes in school district physical activity and nutrition policy environments: A latent class analysis of the School Health Policy and Practices Study"
+title: " Changes in school district physical activity and nutrition policy environments: A latent class analysis of the School Health Policy and Practices Study*"
 collection: publications
 permalink: /publication/AJPM-1
 date: 2019-05-01
-venue: 'American Journal of Preventive Medicine (in revision)'
 ---
+
+American Journal of Preventive Medicine (in revision)
 
 ### Abstract
 
