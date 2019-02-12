@@ -1,10 +1,13 @@
 ---
 title: "Introduction to R Bootcamp"
-author: "Bryan Blette"
-output: 
-  html_document:
-    self_contained: false
+collection: teaching
+type: "Graduate Course"
+venue: "UNAN"
+date: 2019-05-06
+location: "Leon, Nicaragua"
 ---
+
+R workshop conducted as half of a "Intro to Biostatistics" course.
 
 ### Course Information
 
@@ -17,4 +20,4 @@ Insert syllabus
 | Day | Title | Topics | Lecture |
 |-----|-------|--------|---------|
 | 1 | R Basics | R basics | Add Link |
-<!--- | 1 | R Basics | <ul><li>R basics</li><li>Simple figures with 'ggplot2'</li></ul> | Add Link | --->
+| 1 | R Basics | <ul><li>R basics</li><li>Simple figures with 'ggplot2'</li></ul> | Add Link |
