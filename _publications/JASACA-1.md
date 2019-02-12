@@ -1,11 +1,14 @@
 ---
-title: "Post-randomization Biomarker Effect Modification in an HIV Vaccine Clinical Trial"
+title: "Post-randomization Biomarker Effect Modification in an HIV Vaccine Clinical Trial*"
 collection: publications
 permalink: /publication/JASACA-1
 date: 2019-05-01
-venue: 'Journal of the American Statistical Association: Applications and Case Studies (in revision)'
 paperurl: 'https://arxiv.org/pdf/1811.03930.pdf'
 ---
+
+Journal of the American Statistical Association: Applications and Case Studies (in revision)
+
+### Abstract
 
 While the HVTN 505 trial showed no overall efficacy of the tested vaccine to
 prevent HIV infection over placebo, previous studies, biological theories, and the finding
