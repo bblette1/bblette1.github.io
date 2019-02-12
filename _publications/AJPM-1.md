@@ -3,6 +3,7 @@ title: " Changes in school district physical activity and nutrition policy envir
 collection: publications
 permalink: /publication/AJPM-1
 date: 2019-05-01
+venue: "TBD"
 ---
 
 American Journal of Preventive Medicine (in revision)
