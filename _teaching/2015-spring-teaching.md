@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of Florida, Department of Statistics"
-date: "Spring 2015"
+date: 2015-01-01
 location: "Gainesville, FL"
 ---
 
