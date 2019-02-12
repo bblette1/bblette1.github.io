@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/JASACA-1
 date: 2019-05-01
 paperurl: 'https://arxiv.org/pdf/1811.03930.pdf'
+venue: "TBD"
 ---
 
 Journal of the American Statistical Association: Applications and Case Studies (in revision)
