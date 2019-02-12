@@ -20,4 +20,4 @@ Insert syllabus
 | Day | Title | Topics | Lecture |
 |-----|-------|--------|---------|
 | 1 | R Basics | R basics | Add Link |
-| 1 | R Basics | R basics`<br/>`Simple figures with 'ggplot2'` | Add Link |
+| 1 | R Basics | `R basics`<br/>`Simple figures with 'ggplot2'`<br/>`Demonstration of material from morning class` | Add Link |
