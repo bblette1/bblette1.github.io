@@ -8,7 +8,7 @@ paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.018
 citation: 'Becker-Dreps, S., Blette, B., Briceño, R., Alemán, J., Hudgens, M.G., Moreno, G., Ordoñez, A., Rocha, J., Weber, D.J. and Amaya, E., 2017. Changes in the incidence of pneumonia, bacterial meningitis, and infant mortality 5 years following introduction of the 13-valent pneumococcal conjugate vaccine in a" 3+ 0" schedule. PloS one, 12(8), p.e0183348. '
 ---
 
-### Abstract
+Abstract
 
 Background:
 Streptococcus pneumoniae causes about 826,000 deaths of children in the world each year and many health facility visits. To reduce the burden of pneumococcal disease, many nations have added pneumococcal conjugate vaccines to their national immunization schedules. Nicaragua was the first country eligible for GAVI Alliance funding to introduce the 13-valent pneumococcal conjugate vaccine (PCV13) in 2010, provided to infants at 2, 4, and 6 months of age. The goal of this study was to evaluate the population impact of the first five years of the program.
