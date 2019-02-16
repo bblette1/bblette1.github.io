@@ -7,7 +7,7 @@ paperurl: 'https://arxiv.org/pdf/1811.03930.pdf'
 venue: "TBD"
 ---
 
-Journal of the American Statistical Association: Applications and Case Studies (in revision)
+Peter Gilbert, Bryan Blette, Bryan Shepherd, Michael Hudgens; Journal of the American Statistical Association: Applications and Case Studies (in revision)
 
 ### Abstract
 
