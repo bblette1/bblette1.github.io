@@ -6,4 +6,4 @@ date: 2019-07-01
 venue: "TBD"
 ---
 
-The Lancet Infectious Diseases (submitted)
+Matthew Collins, Omar Zepeda, Bryan Blette, et. al.; The Lancet Infectious Diseases (submitted)
