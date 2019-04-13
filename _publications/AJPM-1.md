@@ -6,7 +6,7 @@ date: 2019-05-01
 venue: "TBD"
 ---
 
-Bryan Blette, Annie Green Howard, Leah Frerichs; American Journal of Preventive Medicine (in revision)
+Bryan Blette, Annie Green Howard, Leah Frerichs; American Journal of Preventive Medicine (accepted, in press)
 
 ### Abstract
 
