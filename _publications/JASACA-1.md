@@ -2,7 +2,7 @@
 title: "Post-randomization Biomarker Effect Modification in an HIV Vaccine Clinical Trial*"
 collection: publications
 permalink: /publication/JASACA-1
-date: 2019-05-01
+date: 2019-09-08
 paperurl: 'https://arxiv.org/pdf/1811.03930.pdf'
 venue: "TBD"
 ---
