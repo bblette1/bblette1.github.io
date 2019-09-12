@@ -85,7 +85,7 @@ author:
   bio              : "Biostatistics Ph.D. student at UNC-Chapel Hill"
   location         : "Chapel Hill, NC"
   employer         :
-  googlescholar    : # "http://scholar.google.com"
+  googlescholar    : "https://scholar.google.com/citations?user=z3nEtzAAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,6 +103,7 @@ author:
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-3121-7718"
   pinterest        :
+  publons          : "https://publons.com/researcher/1694891/bryan-blette/"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
