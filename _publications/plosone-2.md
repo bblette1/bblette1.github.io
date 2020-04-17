@@ -8,7 +8,7 @@ paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.023
 citation: 'Collins, M.H., Zepeda, O., Blette, B., Jadi, R., Morales, M., Pérez, R., Liou, G.J.A., Montoya-Cruz, M., Harris, E., Becker-Dreps, S. and de Silva, A.M., 2020. Serologic surveillance of maternal Zika infection in a prospective cohort in Leon, Nicaragua during the peak of the Zika epidemic. PloS one, 15(4), p.e0230692.'
 ---
 
- 
+Cite:
 
 ### Abstract
 
