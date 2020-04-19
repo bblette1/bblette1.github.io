@@ -1,5 +1,5 @@
 ---
-title: " Serologic surveillance of maternal Zika infection and adverse fetal outcomes in a prospective cohort in León, Nicaragua during the peak of the Zika epidemic*"
+title: " Serologic surveillance of maternal Zika infection and adverse fetal outcomes in a prospective cohort in León, Nicaragua during the peak of the Zika epidemic"
 collection: publications
 permalink: /publication/plosone-2
 date: 2020-04-10
