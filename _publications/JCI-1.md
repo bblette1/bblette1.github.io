@@ -1,7 +1,7 @@
 ---
-title: "Post-randomization Biomarker Effect Modification in an HIV Vaccine Clinical Trial*"
+title: "Post-randomization Biomarker Effect Modification in an HIV Vaccine Clinical Trial"
 collection: publications
-permalink: /publication/JASACA-1
+permalink: /publication/JCI-1
 date: 2020-06-01
 paperurl: 'https://arxiv.org/pdf/1811.03930.pdf'
 venue: 'Journal of Causal Inference'
