@@ -2,12 +2,12 @@
 title: "Post-randomization Biomarker Effect Modification in an HIV Vaccine Clinical Trial*"
 collection: publications
 permalink: /publication/JASACA-1
-date: 2019-09-08
+date: 2020-06-01
 paperurl: 'https://arxiv.org/pdf/1811.03930.pdf'
-venue: "TBD"
+venue: 'Journal of Causal Inference'
 ---
 
-Peter Gilbert, Bryan Blette, Bryan Shepherd, Michael Hudgens (submitted)
+Peter Gilbert, Bryan Blette, Bryan Shepherd, Michael Hudgens (accepted, in press)
 
 ### Abstract
 
