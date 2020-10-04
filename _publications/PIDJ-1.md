@@ -5,4 +5,4 @@ permalink: /publication/cid-1
 date: 2020-09-01
 ---
 
-Nadja Vielot, Fredman Gonzalez, Yaoska Reyes, Omar Zapeda, Bryan Blette, et al. (submitted)
+Nadja Vielot, Fredman Gonzalez, Yaoska Reyes, Omar Zapeda, Bryan Blette, et al. (accepted, Pediatric Infectious Disease Journal)
