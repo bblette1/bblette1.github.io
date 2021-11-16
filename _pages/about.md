@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in the Biostatistics Department at UNC-Chapel Hill. My main research interests are in causal inference, measurement error, survival analysis, and biomarker evaluation, with applications in infectious disease (HIV/AIDS in particular). Other research domains of interest include health policy and disease surveillance.
+I've recently joined the University of Pennsylvania as a post-doctoral fellow in the Department of Biostatistics, Epidemiology and Informatics and the Center for Causal Inference. My main research interests are applications and methods development for causal inference, survival analysis, clinical trials, and health policy.
 
-Feel free to contact me at blette 'at' live.unc.edu
+In Fall 2021, I defended my dissertation and graduated with a Ph.D. in Biostatistics from UNC - Chapel Hill.
+
+Feel free to contact me at Bryan.Blette 'at' Pennmedicine.upenn.edu
