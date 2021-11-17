@@ -8,7 +8,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S07493797193021
 citation: 'Blette, B.S., Howard, A.G. and Frerichs, L.M., 2019. High School Physical Activity and Nutrition Policy: Summarizing Changes Over Time Using Latent Class Analysis. American journal of preventive medicine, 57(3), pp.e69-e76. '
 ---
 
-Cite:
+Click through for abstract
 
 ### Abstract
 
