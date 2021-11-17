@@ -8,7 +8,7 @@ venue: 'Journal of Causal Inference'
 citation: 'Gilbert, P.B., Blette, B.S., Shepherd, B.E. and Hudgens, M.G., 2020. Post-randomization Biomarker Effect Modification Analysis in an HIV Vaccine Clinical Trial. Journal of Causal Inference, 8(1), pp.54-69.'
 ---
 
-Peter Gilbert, Bryan Blette, Bryan Shepherd, Michael Hudgens
+Click through for abstract
 
 ### Abstract
 
