@@ -1,5 +1,5 @@
 ---
-title: "Post-randomization Biomarker Effect Modification in an HIV Vaccine Clinical Trial"
+title: "Post-randomization biomarker effect modification in an HIV vaccine clinical trial"
 collection: publications
 permalink: /publication/JCI-1
 date: 2020-06-01
