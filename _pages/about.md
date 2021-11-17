@@ -12,4 +12,4 @@ I've recently joined the University of Pennsylvania as a post-doctoral fellow in
 
 In Fall 2021, I defended my dissertation and graduated with a Ph.D. in Biostatistics from UNC - Chapel Hill.
 
-Feel free to contact me at Bryan.Blette 'at' Pennmedicine.upenn.edu
+Feel free to contact me at bryan.blette 'at' pennmedicine.upenn.edu
