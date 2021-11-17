@@ -1,5 +1,5 @@
 ---
-title: "High School Physical Activity and Nutrition Policy: Summarizing Changes Over Time Using Latent Class Analysis"
+title: "High school physical activity and nutrition policy: Summarizing changes over time using latent class analysis"
 collection: publications
 permalink: /publication/AJPM-1
 date: 2019-09-01
