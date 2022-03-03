@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+For a more updated list of publications, see the CV tab.
+
 (*) indicates manuscripts under review
 
 {% if author.googlescholar %}
