@@ -16,5 +16,5 @@ For a more updated list of publications, see the CV tab.
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single-publications.html %}
+  {% include archive-single.html %}
 {% endfor %}
