@@ -4,5 +4,6 @@ collection: publications
 permalink: /publication/assess-1
 date: 2022-12-01
 venue: "TBD"
+paperurl: 'https://arxiv.org/abs/2209.01297'
 citation: "Blette, B. S., Halpern, S. D., Li, F., Harhay, M. O. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials (submitted)"
 ---
