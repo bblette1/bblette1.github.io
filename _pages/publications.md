@@ -1,20 +1,35 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-For a more updated list of publications, see the CV tab.
-
-(*) indicates manuscripts under review
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+## Peer-Reviewed (* indicates co-first author)
+- Schweickert, W., Jablonksi, J., Bayes, B., Chowdhury, M., Whitman, C., Tian, J., **Blette, B.**, Tran, T., Halpern, S. Structured mobilization for critically ill patients: A pragmatic cluster-randomized trial (accepted, *American Journal of Respiratory and Critical Care Medicine*)
+- **Blette, B.S.**\*, Granholm, A\*, Li, F., Shankar-Hari, M., Lange, T., Munch, M.W., Møller, M.H., Perner, A. and Harhay, M.O. (2023). Causal Bayesian machine learning to assess treatment effect heterogeneity by dexamethasone dose for patients with COVID-19 and severe hypoxemia. *Scientific Reports*, 13(1), p.6570.
+- Harhay, M.O., **Blette, B.S.**, Granholm, A., Moler, F.W., Zampieri, F.G., Goligher, E.C., Gardner, M.M., Topjian, A.A. and Yehya, N. (2022). A Bayesian interpretation of a pediatric cardiac arrest trial (THAPCA-OH). *NEJM Evidence*, p.EVIDoa2200196.
+- Spelke, M. B., Paul, R., **Blette, B.**, Meltzer‐Brody, S., Schiller, C. E., Ncheka, J. M., Kasaro, M. P., Price, J. T., Stringer, J. S., Stringer, E.M. (2022). Interpersonal therapy vs. antidepressant medication for treatment of postpartum depression and anxiety among women with HIV in Zambia: a randomized feasibility trial. *Journal of the International AIDS Society*, 25(7), p.e25959.
+- Vielot, N., Becker-Dreps, S., **Blette, B.**, Gonzalez, F., Toval-Ruiz, C., Gutierrez, L., Vilchez, S., Diez-Valcarce, M., Vinje, J., Becker-Dreps, S., Bucardo, F. (2022). First episodes of norovirus and sapovirus gastroenteritis protect against subsequent episodes in a Nicaraguan birth cohort. *Epidemiology*, 33(5), 650-653.
+- Bowman, N. M., Bucardo, F., Collins, M. H., Reyes, Y., Cuadra, E. C., **Blette, B.**, ..., Becker-Dreps, S. (2021). Clinical and epidemiological features of acute Zika virus infections in León, Nicaragua. *The American Journal of Tropical Medicine and Hygiene*, 105(4), 924-930.
+- Stringer, E. M., Martinez, E., **Blette, B.**, Toval Ruiz, C. E., Boivin, M., Zepeda, O., ..., Bucardo, F. (2021). Neurodevelopmental outcomes of children following in utero exposure to Zika in Nicaragua. *Clinical Infectious Diseases*, 72(5), e146-e153.
+- Vielot, N. A., González, F., Reyes, Y., Zepeda, O., **Blette, B.**, Paniagua, M., ..., Bucardo, F. (2021). Risk factors and clinical profile of Sapovirus-associated acute gastroenteritis in early childhood: A Nicaraguan birth cohort study. *The Pediatric Infectious Disease Journal*, 40(3), 220-226.
+- Gilbert, P.B., **Blette, B.S.**, Shepherd, B.E. and Hudgens, M.G. (2020). Post-randomization biomarker effect modification analysis in an HIV vaccine clinical trial. *Journal of Causal Inference*, 8(1), pp.54-69.
+- Collins, M.H., Zepeda, O., **Blette, B.**, Jadi, R., Morales, M., Pérez, R., Liou, G.J.A., Montoya-Cruz, M., Harris, E., Becker-Dreps, S. and de Silva, A.M. (2020). Serologic surveillance of maternal Zika infection in a prospective cohort in Leon, Nicaragua during the peak of the Zika epidemic. *PloS One*, 15(4), p.e0230692.
+- Neidich, S.D., Fong, Y., Li, S.S., Geraghty, D.E., Williamson, B.D., ..., **Blette, B.**, ..., Tomaras, G. (2019). Antibody Fc effector functions and IgG3 associate with decreased HIV-1 risk. *Journal of Clinical Investigation*, 129(11), pp.4838-4849.
+- **Blette, B.S**, Howard, A.G. and Frerichs, L.M. (2019). High school physical activity and nutrition policy: Summarizing changes over time using latent class analysis. *American Journal of Preventive Medicine*, 57(3), pp.e69-e76.
+- Becker-Dreps, S., **Blette, B.**, Briceño, R., Alemán, J., Hudgens, M.G., Moreno, G., Ordoñez, A., Rocha, J., Weber, D.J. and Amaya, E. (2017). Changes in the incidence of pneumonia, bacterial meningitis, and infant mortality 5 years following introduction of the 13-valent pneumococcal conjugate vaccine in a" 3+ 0" schedule. *PloS One*, 12(8), p.e0183348.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Under Review
+- **Blette, B.**, Moutchia, J., Al-Naamani, N., Ventetuolo, C., Cheng, C., Appleby, D., Urbanowicz, R., Fritz, J., Mazurek, J., Li, F., Kawut, S., Harhay, M. Multivariable risk scores as potential surrogate outcomes in pulmonary arterial hypertension trials (under revision, *The Lancet Respiratory Medicine*)
+- **Blette, B.**, Gilbert, P., Hudgens, M. Addressing confounding and continuous exposure measurement error using conditional score functions (in revision, *Biometrics*)
+- Kahan, B., Li, F., **Blette, B.**, Jairath, V., Copas, A., Harhay, M. Informative cluster size in cluster-randomised trials: A case study from the TRIGGER trial (in revision, *Clinical Trials*)
+- Kasaro, M., **Blette, B.**, Paul, R., Meltzer-Brody, S., Mwanze, J., Spelke, M.B., Stringer, J., Stringer, E. Factors associated with severity of Edinburgh Postnatal Depression Screen (EPDS) and optimal cutoff of EPDS for diagnosing depression and anxiety among postpartum HIV positive women in Lusaka, Zambia (submitted)
+- Spelke, M.B., Okumu, E., Perry, N., **Blette, B.**, Paul, R., Schiller, C., Ncheka, J.M., Kasaro, M., Price, J., Meltzer-Brody, S., Stringer, J., Stringer, E. Acceptability of a randomized trial of anti-depressant medication or interpersonal therapy for treatment of perinatal depression in HIV infected women (submitted)
+- **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials (submitted)
+- Max, R., Toval-Ruiz, C., Becker-Dreps, S., Gajewski, A., Martinez, E., Cross, K., **Blette, B.**, ..., Bucardo, F. Neurodevelopment in preschool children exposed and unexposed to Zika virus in utero (submitted)
+- Kahan, B., **Blette, B.**, Harhay, M., Halpern, S., Jairath V., Copas, A., Li, F. Demystifying estimands in cluster-randomised trials (submitted)
+- Hart, J., Summer, A., Ogunduyile, L., Lapite, F., Hong, D., Whitman, C., **Blette, B.**, Harhay, M., Halpern, S. The accuracy and impact of patients’ expectations in severe chronic obstructive pulmonary disease: A longitudinal cohort study (submitted)
