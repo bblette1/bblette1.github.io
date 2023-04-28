@@ -4,9 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=z3nEtzAAAAAJ&hl=en&oi=ao)
 
 ## Peer-Reviewed (* indicates co-first author)
 - Schweickert, W., Jablonksi, J., Bayes, B., Chowdhury, M., Whitman, C., Tian, J., **Blette, B.**, Tran, T., Halpern, S. Structured mobilization for critically ill patients: A pragmatic cluster-randomized trial (accepted, *American Journal of Respiratory and Critical Care Medicine*)
