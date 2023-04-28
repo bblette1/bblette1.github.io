@@ -12,4 +12,4 @@ I'm currently a post-doctoral fellow in the Department of Biostatistics, Epidemi
 
 In July 2023, I will be joining the Biostatistics faculty at Vanderbilt University Medical Center
 
-![](vandycampus.jpg)
+![](../Images/vandycampus.jpg)
