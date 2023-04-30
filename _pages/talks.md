@@ -4,6 +4,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+Here's a map of places I've given talks:
+
+![](../images/TalkPlaces.png)
+
 ## Oral Presentations
 - **Blette, B.**, Moutchia, J., Al-Naamani, N., Ventetuolo, C., Cheng, C., Appleby, D., Urbanowicz, R., Fritz, J., Mazurek, J., Li, F., Kawut, S., Harhay, M. Multivariable risk scores as potential surrogate outcomes in pulmonary arterial hypertension trials
   - *American Thoracic Society International Conference, Washington DC*, May 2023
