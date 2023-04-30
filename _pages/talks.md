@@ -1,0 +1,55 @@
+---
+title: "Presentations and Posters"
+permalink: /talks/
+author_profile: true
+---
+
+## Oral Presentations
+- **Blette, B.**, Moutchia, J., Al-Naamani, N., Ventetuolo, C., Cheng, C., Appleby, D., Urbanowicz, R., Fritz, J., Mazurek, J., Li, F., Kawut, S., Harhay, M. Multivariable risk scores as potential surrogate outcomes in pulmonary arterial hypertension trials
+  - *American Thoracic Society International Conference, Washington DC*, May 2023
+- **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials
+  - *ENAR Spring Meeting, Nashville, TN*, March 2023
+- **Blette, B.**, Gilbert, P., Hudgens, M. Combining causal and joint modeling methods to address practical issues in HIV clinical trials
+  - *University of Pennsylvania Division of Biostatistics Seminar*, February 2023
+- **Blette, B.**, Gilbert, P., Hudgens, M. Combining causal and joint modeling methods to address practical issues in HIV clinical trials
+  - *Ohio State University Division of Biomedical Informatics Seminar*, February 2023
+- **Blette, B.**, Gilbert, P., Hudgens, M. Combining causal and joint modeling methods to address practical issues in HIV clinical trials
+  - *Vanderbilt Department of Biostatistics Seminar*, January 2023
+- **Blette, B.**, Gilbert, P., Hudgens, M. Combining Causal and Joint Modeling Methods to Address Policy-Relevant Questions using HIV Vaccine Trial Data
+  - *RAND Statistics Group Seminar*, January 2023
+- **Blette, B.**, Gilbert, P., Hudgens, M. Combining causal and joint modeling methods to address practical issues in HIV clinical trials
+  - *Northwestern University Division of Biostatistics Seminar*, January 2023
+- **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials
+  - *8th Annual Conference on Current Developments in Cluster Randomized Trials and Stepped Wedge Designs*, November 2022
+- **Blette, B.**, Gilbert, P., Hudgens, M. Causal joint modeling of longitudinal and survival data: An IPW approach
+  - *International Biometric Society: Kenya Region Seminar Series*, November 2022
+- **Blette, B.**, Gilbert, P., Hudgens, M. Addressing confounding and continuous exposure measurement error using conditional score functions
+  - *Joint Statistical Meetings*, August 2022 (Biometrics Section Paper Award presentation)
+- **Blette, B.** Association vs. causation in medical research
+  - *Penn Palliative and Advanced Illness Research (PAIR) Center Seminar Series*, July 2022
+- **Blette, B.**, Gilbert, P., Hudgens, M. Causal joint modeling of longitudinal and survival data: An IPW approach
+  - *Center for Causal Inference (CCI) Seminar Series*, April 2022
+- **Blette, B.**, Hudgens, M. Causal joint modeling of longitudinal and survival data using the parametric g-formula
+  - *ENAR Spring Meeting*, March 2022
+- **Blette, B.**, Gilbert, P., Hudgens, M. Addressing concurrent confounding and measurement error using conditional score functions
+  - *ENAR Spring Meeting*, March 2021
+- **Blette, B.**, Gilbert, P., Hudgens, M. Structural joint modeling of longitudinal and survival data
+  - *ENAR Spring Meeting*, March 2020
+- **Blette, B.** Preparing for the next Zika epidemic: Clinical, epidemiological, and statistical Challenges
+  - *UNC Prospective Students Day*, February 2020
+- **Blette, B.**, Gilbert, P., Hudgens, M. Structural joint modeling of longitudinal and survival Data
+  - *UNC Student Seminar*, September 2019
+- **Blette, B.**, Gilbert, P., Shepherd, B., Hudgens, M. Post-randomization biomarker effect modification in an HIV vaccine clinical trial
+  - *ENAR Spring Meeting*, March 2019
+- **Blette, B.**, Richardson, A., Jiao, Y. Modeling considerations in data-driven attribution
+  - *Google Internship Presentation*. September, 2018
+- **Blette, B.**, Ploutz-Snyder, R., Feiveson, A. Data analysis challenges in the space life sciences
+  - *Space Life Sciences Summer Institute Research Conference*, August 2015
+
+## Posters
+- **Blette, B.**, Kahan. B, Harhay, M., Li. F. Assessing informative cluster size in cluster-randomized trials
+  - *Atlantic Causal Inference Conference*, May 2023
+- **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials
+  - *Penn DBEI and CCEB Research Day*, March 2022
+- **Blette, B.**, Howard, A.G., Frerichs, L. Latent class analysis for classification of latent policy environments: A case study
+  - *Joint Statistical Meetings*, August 2019
