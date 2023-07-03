@@ -52,7 +52,7 @@ Here's a map of places I've given talks:
 
 ## Posters
 - **Blette, B.**, Kahan. B, Harhay, M., Li. F. Assessing informative cluster size in cluster-randomized trials
-  - *Atlantic Causal Inference Conference, Austin, TX*, May 2023
+  - *American Causal Inference Conference, Austin, TX*, May 2023
 - **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials
   - *Penn DBEI and CCEB Research Day, Philadelphia, PA*, March 2022
 - **Blette, B.**, Howard, A.G., Frerichs, L. Latent class analysis for classification of latent policy environments: A case study
