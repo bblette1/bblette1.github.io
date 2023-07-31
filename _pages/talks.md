@@ -8,11 +8,9 @@ Here's a map of places I've given talks:
 
 ![](../images/TalkPlaces.png)
 
-## Oral Presentations
-- **Blette, B.**, Moutchia, J., Al-Naamani, N., Ventetuolo, C., Cheng, C., Appleby, D., Urbanowicz, R., Fritz, J., Mazurek, J., Li, F., Kawut, S., Harhay, M. Multivariable risk scores as potential surrogate outcomes in pulmonary arterial hypertension trials
-  - *American Thoracic Society International Conference, Washington DC*, May 2023
-- **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials
-  - *ENAR Spring Meeting, Nashville, TN*, March 2023
+## Invited Talks and Seminars
+- **Blette, B.**, Moutchia, J., Al-Naamani, N., Ventetuolo, C., Cheng, C., Appleby, D., Urbanowicz, R., Fritz, J., Mazurek, J., Li, F., Kawut, S., Harhay, M. Is low-risk status a surrogate outcome in pulmonary arterial hypertension? An analysis of three randomised trials
+  - *Pulmonary Vascular Research Institute Community Seminar, Virtual*, July 2023
 - **Blette, B.**, Gilbert, P., Hudgens, M. Combining causal and joint modeling methods to address practical issues in HIV clinical trials
   - *University of Pennsylvania Division of Biostatistics Seminar, Philadelphia, PA*, February 2023
 - **Blette, B.**, Gilbert, P., Hudgens, M. Combining causal and joint modeling methods to address practical issues in HIV clinical trials
@@ -23,16 +21,22 @@ Here's a map of places I've given talks:
   - *RAND Statistics Group Seminar, Virtual*, January 2023
 - **Blette, B.**, Gilbert, P., Hudgens, M. Combining causal and joint modeling methods to address practical issues in HIV clinical trials
   - *Northwestern University Division of Biostatistics Seminar, Chicago, IL*, January 2023
-- **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials
-  - *8th Annual Conference on Current Developments in Cluster Randomized Trials and Stepped Wedge Designs, Virtual*, November 2022
 - **Blette, B.**, Gilbert, P., Hudgens, M. Causal joint modeling of longitudinal and survival data: An IPW approach
   - *International Biometric Society: Kenya Region Seminar Series, Virtual*, November 2022
-- **Blette, B.**, Gilbert, P., Hudgens, M. Addressing confounding and continuous exposure measurement error using conditional score functions
-  - *Joint Statistical Meetings, Washington DC*, August 2022 (Biometrics Section Paper Award presentation)
 - **Blette, B.** Association vs. causation in medical research
   - *Penn Palliative and Advanced Illness Research (PAIR) Center Seminar Series, Philadelphia, PA*, July 2022
 - **Blette, B.**, Gilbert, P., Hudgens, M. Causal joint modeling of longitudinal and survival data: An IPW approach
   - *Center for Causal Inference (CCI) Seminar Series, Philadelphia, PA*, April 2022
+    
+## Contributed Talks
+- **Blette, B.**, Moutchia, J., Al-Naamani, N., Ventetuolo, C., Cheng, C., Appleby, D., Urbanowicz, R., Fritz, J., Mazurek, J., Li, F., Kawut, S., Harhay, M. Multivariable risk scores as potential surrogate outcomes in pulmonary arterial hypertension trials
+  - *American Thoracic Society International Conference, Washington DC*, May 2023
+- **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials
+  - *ENAR Spring Meeting, Nashville, TN*, March 2023
+- **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials
+  - *8th Annual Conference on Current Developments in Cluster Randomized Trials and Stepped Wedge Designs, Virtual*, November 2022
+- **Blette, B.**, Gilbert, P., Hudgens, M. Addressing confounding and continuous exposure measurement error using conditional score functions
+  - *Joint Statistical Meetings, Washington DC*, August 2022 (Biometrics Section Paper Award presentation)
 - **Blette, B.**, Hudgens, M. Causal joint modeling of longitudinal and survival data using the parametric g-formula
   - *ENAR Spring Meeting, Houston, TX*, March 2022
 - **Blette, B.**, Gilbert, P., Hudgens, M. Addressing concurrent confounding and measurement error using conditional score functions
