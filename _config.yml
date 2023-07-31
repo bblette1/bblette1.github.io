@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bryan S. Blette"
 title_separator          : "-"
 name                     : &name "Bryan Blette"
-description              : &description "Postdoctoral Fellow at University of Pennsylvania"
+description              : &description "Assistant Professor at Vanderbilt University Medical Center"
 url                      : https://bblette1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bblette1/bblette1.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Bryan Blette"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow at University of Pennsylvania"
-  location         : "Philadelphia, PA"
+  bio              : "Assistant Professor at Vanderbilt University Medical Center"
+  location         : "Nashville, TN"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=z3nEtzAAAAAJ&hl=en&oi=ao"
   email            :
