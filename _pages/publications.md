@@ -27,8 +27,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Under Review
 - **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials (under revision *SMMR*, [arXiv](https://arxiv.org/abs/2209.01297))
+- Max, R., Toval-Ruiz, C., Becker-Dreps, S., Gajewski, A., Martinez, E., Cross, K., **Blette, B.**, ..., Bucardo, F. Neurodevelopment in preschool children exposed and unexposed to Zika virus in utero (under revision, *The Lancet Global Health*)
+- Kahan, B., **Blette, B.**, Harhay, M., Halpern, S., Jairath V., Copas, A., Li, F. Demystifying estimands in cluster-randomised trials (under revision, *SMMR*, [arXiv](https://arxiv.org/abs/2303.13960))
 - **Blette, B.**, Gilbert, P., Hudgens, M. Addressing confounding and continuous exposure measurement error using conditional score functions (submitted)
 - Kasaro, M., **Blette, B.**, Paul, R., Meltzer-Brody, S., Mwanze, J., Spelke, M.B., Stringer, J., Stringer, E. Factors associated with severity of Edinburgh Postnatal Depression Screen (EPDS) and optimal cutoff of EPDS for diagnosing depression and anxiety among postpartum HIV positive women in Lusaka, Zambia (submitted)
 - Spelke, M.B., Okumu, E., Perry, N., **Blette, B.**, Paul, R., Schiller, C., Ncheka, J.M., Kasaro, M., Price, J., Meltzer-Brody, S., Stringer, J., Stringer, E. Acceptability of a randomized trial of anti-depressant medication or interpersonal therapy for treatment of perinatal depression in HIV infected women (submitted)
-- Max, R., Toval-Ruiz, C., Becker-Dreps, S., Gajewski, A., Martinez, E., Cross, K., **Blette, B.**, ..., Bucardo, F. Neurodevelopment in preschool children exposed and unexposed to Zika virus in utero (submitted)
-- Kahan, B., **Blette, B.**, Harhay, M., Halpern, S., Jairath V., Copas, A., Li, F. Demystifying estimands in cluster-randomised trials (submitted, [arXiv](https://arxiv.org/abs/2303.13960))
