@@ -9,6 +9,8 @@ Here's a map of places I've given talks:
 ![](../images/TalkPlaces.png)
 
 ## Invited Talks and Seminars
+- **Blette, B.**, Kahan. B, Harhay, M., Li. F. Evaluating informative cluster size in cluster-randomized trials
+  - *CMStatistics, Berlin, Germany*, December 2023
 - **Blette, B.**, Moutchia, J., Al-Naamani, N., Ventetuolo, C., Cheng, C., Appleby, D., Urbanowicz, R., Fritz, J., Mazurek, J., Li, F., Kawut, S., Harhay, M. Is low-risk status a surrogate outcome in pulmonary arterial hypertension? An analysis of three randomised trials
   - *Pulmonary Vascular Research Institute Community Seminar, Virtual*, July 2023
 - **Blette, B.**, Gilbert, P., Hudgens, M. Combining causal and joint modeling methods to address practical issues in HIV clinical trials
@@ -34,7 +36,7 @@ Here's a map of places I've given talks:
 - **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials
   - *ENAR Spring Meeting, Nashville, TN*, March 2023
 - **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials
-  - *8th Annual Conference on Current Developments in Cluster Randomized Trials and Stepped Wedge Designs, Virtual*, November 2022
+  - *8th Annual Conference on Current Developments in Cluster Randomized Trials and Stepped Wedge Designs, London, UK / Virtual*, November 2022
 - **Blette, B.**, Gilbert, P., Hudgens, M. Addressing confounding and continuous exposure measurement error using conditional score functions
   - *Joint Statistical Meetings, Washington DC*, August 2022 (Biometrics Section Paper Award presentation)
 - **Blette, B.**, Hudgens, M. Causal joint modeling of longitudinal and survival data using the parametric g-formula
