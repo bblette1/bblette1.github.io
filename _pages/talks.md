@@ -4,12 +4,18 @@ permalink: /talks/
 author_profile: true
 ---
 
-Here's a map of places I've given talks:
+Here's a map of places I've given talks (blue markers represent in-person presentations, while yellow markers represent the primary audience for a virtual presentation):
 
 ![](../images/TalkPlaces.png)
 
 ## Invited Talks and Seminars
-- **Blette, B.**, Kahan. B, Harhay, M., Li. F. Evaluating informative cluster size in cluster-randomized trials
+- **Blette, B.**, Desai, M., Elkin, P., Lindsell, C. Generative AI as a Tool for Advancing Translational Science: Opportunities and Potential Pitfalls
+  - *ACTS Translational Science, Las Vegas, NV*, April 2024
+- **Blette, B.**, Kahan, B., Harhay, M., Li, F. Evaluating informative cluster size in cluster-randomized trials
+  - *ENAR Spring Meeting, Baltimore, MD*, March 2024
+- **Blette, B.**, Kahan, B., Halpern, S., Harhay, M., Li, F. Practical issues in cluster-randomized trials: Missing data and assessing assumptions
+  - *University of Louisville Department of Biostatistics Seminar, Virtual*, February 2024
+- **Blette, B.**, Kahan, B., Harhay, M., Li, F. Evaluating informative cluster size in cluster-randomized trials
   - *CMStatistics, Berlin, Germany*, December 2023
 - **Blette, B.**, Moutchia, J., Al-Naamani, N., Ventetuolo, C., Cheng, C., Appleby, D., Urbanowicz, R., Fritz, J., Mazurek, J., Li, F., Kawut, S., Harhay, M. Is low-risk status a surrogate outcome in pulmonary arterial hypertension? An analysis of three randomised trials
   - *Pulmonary Vascular Research Institute Community Seminar, Virtual*, July 2023
