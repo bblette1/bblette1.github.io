@@ -29,7 +29,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - Becker-Dreps, S., **Blette, B.**, Briceño, R., Alemán, J., Hudgens, M.G., Moreno, G., Ordoñez, A., Rocha, J., Weber, D.J. and Amaya, E. (2017). Changes in the incidence of pneumonia, bacterial meningitis, and infant mortality 5 years following introduction of the 13-valent pneumococcal conjugate vaccine in a" 3+ 0" schedule. [*PloS One*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183348), 12(8), p.e0183348.
 
 ## Under Review
-- Max, R., Toval-Ruiz, C., Becker-Dreps, S., Gajewski, A., Martinez, E., Cross, K., **Blette, B.**, ..., Bucardo, F. Neurodevelopment in preschool children exposed and unexposed to Zika virus in utero (under revision, *The Lancet Global Health*)
-- Kahan, B., **Blette, B.**, Harhay, M., Halpern, S., Jairath V., Copas, A., Li, F. Demystifying estimands in cluster-randomised trials (under revision, *SMMR*, [arXiv](https://arxiv.org/abs/2303.13960))
+- Max, R., Toval-Ruiz, C., Becker-Dreps, S., Gajewski, A., Martinez, E., Cross, K., **Blette, B.**, ..., Bucardo, F. Neurodevelopment in preschool children exposed and unexposed to Zika virus in utero (accepted, *The Lancet Global Health*)
+- Kahan, B., **Blette, B.**, Harhay, M., Halpern, S., Jairath V., Copas, A., Li, F. Demystifying estimands in cluster-randomised trials (accepted, *SMMR*, [arXiv](https://arxiv.org/abs/2303.13960))
 - **Blette, B.**, Gilbert, P., Hudgens, M. Addressing confounding and continuous exposure measurement error using conditional score functions (submitted)
 - Kasaro, M., **Blette, B.**, Paul, R., Meltzer-Brody, S., Mwanze, J., Spelke, M.B., Stringer, J., Stringer, E. Factors associated with severity of Edinburgh Postnatal Depression Screen (EPDS) and optimal cutoff of EPDS for diagnosing depression and anxiety among postpartum HIV positive women in Lusaka, Zambia (submitted)
