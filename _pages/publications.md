@@ -7,6 +7,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=z3nEtzAAAAAJ&hl=en&oi=ao)
 
 ## Peer-Reviewed (* indicates co-first author)
+- Kahan, B.C., **Blette, B.S.**, Harhay, M.O., Halpern, S.D., Jairath, V., Copas, A., Li, F. (2024) Demystifying estimands in cluster-randomised trials. [*Statistical Methods in Medical Research*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11348634/), 33(7), pp.1211-1232
 - Max, R., Toval-Ruiz, C., Becker-Dreps, S., Gajewski, A., Martinez, E., Cross, K., **Blette, B.**, ..., Bucardo, F. (2024) Neurodevelopment in preschool children exposed and unexposed to Zika virus in utero in Nicaragua: a prospective cohort study. [*The Lancet Global Health*](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(24)00176-1/fulltext), 12(7), pp.e1129-e1138
 - **Blette, B.**, Halpern, S., Li, F., Harhay, M. (2024). Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials. [*Statistical Methods in Medical Research*](https://journals.sagepub.com/doi/10.1177/09622802241242323), 33(5), pp.909-927
 - Harhay, M.O., **Blette, B.S.** and Kawut, S.M. (2024). Risk scores as a surrogate in pulmonary arterial hypertension: a different lens - Authors' reply. [*The Lancet Respiratory Medicine*](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(24)00002-X/fulltext), 12(3), p.e11.
@@ -29,7 +30,3 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - **Blette, B.S**, Howard, A.G. and Frerichs, L.M. (2019). High school physical activity and nutrition policy: Summarizing changes over time using latent class analysis. [*American Journal of Preventive Medicine*](https://www.sciencedirect.com/science/article/abs/pii/S0749379719302132), 57(3), pp.e69-e76.
 - Becker-Dreps, S., **Blette, B.**, Briceño, R., Alemán, J., Hudgens, M.G., Moreno, G., Ordoñez, A., Rocha, J., Weber, D.J. and Amaya, E. (2017). Changes in the incidence of pneumonia, bacterial meningitis, and infant mortality 5 years following introduction of the 13-valent pneumococcal conjugate vaccine in a" 3+ 0" schedule. [*PloS One*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183348), 12(8), p.e0183348.
 
-## Under Review
-- Kahan, B., **Blette, B.**, Harhay, M., Halpern, S., Jairath V., Copas, A., Li, F. Demystifying estimands in cluster-randomised trials (accepted, *SMMR*, [arXiv](https://arxiv.org/abs/2303.13960))
-- **Blette, B.**, Gilbert, P., Hudgens, M. Addressing confounding and continuous exposure measurement error using conditional score functions (submitted)
-- Kasaro, M., **Blette, B.**, Paul, R., Meltzer-Brody, S., Mwanze, J., Spelke, M.B., Stringer, J., Stringer, E. Factors associated with severity of Edinburgh Postnatal Depression Screen (EPDS) and optimal cutoff of EPDS for diagnosing depression and anxiety among postpartum HIV positive women in Lusaka, Zambia (under revision, *Medical Journal of Zambia*)
