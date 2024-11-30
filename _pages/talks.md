@@ -37,6 +37,8 @@ Here's a map of places I've given talks (blue markers represent in-person presen
   - *Center for Causal Inference (CCI) Seminar Series, Philadelphia, PA*, April 2022
     
 ## Contributed Talks
+- **Blette, B.**, Kahan, B., Forbes, A., Harhay, M., Li, F. Evaluating informative cluster size in cluster-randomized trials.
+  - *10th Annual Conference on Current Developments in Cluster Randomized Trials and Stepped Wedge Designs, Birmingham, UK / Virtual*, November 2024
 - **Blette, B.**, Moutchia, J., Al-Naamani, N., Ventetuolo, C., Cheng, C., Appleby, D., Urbanowicz, R., Fritz, J., Mazurek, J., Li, F., Kawut, S., Harhay, M. Multivariable risk scores as potential surrogate outcomes in pulmonary arterial hypertension trials
   - *American Thoracic Society International Conference, Washington DC*, May 2023
 - **Blette, B.**, Halpern, S., Li, F., Harhay, M. Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials
