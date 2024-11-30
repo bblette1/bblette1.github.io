@@ -7,6 +7,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=z3nEtzAAAAAJ&hl=en&oi=ao)
 
 ## Peer-Reviewed (* indicates co-first author)
+- Mersfelder, R., Lwin, C., Malik, S., Badgett, T., Chenard, S., Rekulapelli, A., **Blette, B.**, Lawrenz, J., Borinstein, S. Chemotherapy-surgery interval effects On tumor necrosis and outcome in children and young adults with osteosarcoma (accepted, [*Pediatric Blood and Cancer*](https://www.authorea.com/doi/full/10.22541/au.172519529.97266402))
 - Kahan, B.C., **Blette, B.S.**, Harhay, M.O., Halpern, S.D., Jairath, V., Copas, A., Li, F. (2024) Demystifying estimands in cluster-randomised trials. [*Statistical Methods in Medical Research*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11348634/), 33(7), pp.1211-1232
 - Max, R., Toval-Ruiz, C., Becker-Dreps, S., Gajewski, A., Martinez, E., Cross, K., **Blette, B.**, ..., Bucardo, F. (2024) Neurodevelopment in preschool children exposed and unexposed to Zika virus in utero in Nicaragua: a prospective cohort study. [*The Lancet Global Health*](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(24)00176-1/fulltext), 12(7), pp.e1129-e1138
 - **Blette, B.**, Halpern, S., Li, F., Harhay, M. (2024). Assessing treatment effect heterogeneity in the presence of missing effect modifier data in cluster-randomized trials. [*Statistical Methods in Medical Research*](https://journals.sagepub.com/doi/10.1177/09622802241242323), 33(5), pp.909-927
