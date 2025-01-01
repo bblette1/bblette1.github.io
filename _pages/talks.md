@@ -9,6 +9,8 @@ Here's a map of places I've given talks (blue markers represent in-person presen
 ![](../images/TalkPlaces.png)
 
 ## Invited Talks and Seminars
+- **Blette, B.**. Exploring the Nature of Individualized Treatment Effects
+  - *CMStatistics, London, UK / Virtual*, December 2024
 - **Blette, B.**, Desai, M., Elkin, P., Lindsell, C. Generative AI as a Tool for Advancing Translational Science: Opportunities and Potential Pitfalls
   - *ACTS Translational Science, Las Vegas, NV*, April 2024
 - **Blette, B.**, Kahan, B., Harhay, M., Li, F. Evaluating informative cluster size in cluster-randomized trials
