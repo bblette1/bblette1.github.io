@@ -9,6 +9,8 @@ Here's a map of places I've given talks (blue markers represent in-person presen
 ![](../images/TalkPlaces.png)
 
 ## Invited Talks and Seminars
+- **Blette, B.**. Illustration and Evaluation of Machine Learning Approaches for Assessing Treatment Effect Heterogeneity in Clinical Trials
+  - *American Delirium Society Conference, Nashville, TN*, July 2025
 - **Blette, B.**. Exploring the Nature of Individualized Treatment Effects
   - *CMStatistics, London, UK / Virtual*, December 2024
 - **Blette, B.**, Desai, M., Elkin, P., Lindsell, C. Generative AI as a Tool for Advancing Translational Science: Opportunities and Potential Pitfalls
@@ -39,6 +41,8 @@ Here's a map of places I've given talks (blue markers represent in-person presen
   - *Center for Causal Inference (CCI) Seminar Series, Philadelphia, PA*, April 2022
     
 ## Contributed Talks
+- **Blette, B.**, Kahan, B., Forbes, A., Harhay, M., Li, F. Evaluating informative cluster size in cluster-randomized trials.
+  - *Society for Clinical Trials Annual Meeting, Vancouver, CA*, May 2025
 - **Blette, B.**, Kahan, B., Forbes, A., Harhay, M., Li, F. Evaluating informative cluster size in cluster-randomized trials.
   - *10th Annual Conference on Current Developments in Cluster Randomized Trials and Stepped Wedge Designs, Birmingham, UK / Virtual*, November 2024
 - **Blette, B.**, Moutchia, J., Al-Naamani, N., Ventetuolo, C., Cheng, C., Appleby, D., Urbanowicz, R., Fritz, J., Mazurek, J., Li, F., Kawut, S., Harhay, M. Multivariable risk scores as potential surrogate outcomes in pulmonary arterial hypertension trials
